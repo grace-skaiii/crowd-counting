@@ -3,7 +3,7 @@
 ### Datasets
 ShanghaiTech partB 数据集请自行下载到与该md文件同级目录下
 
-在训练前需要通过下述matlab代码生成密度图和分割图
+在训练前需要通过下述matlab代码生成密度图和分割图,训练集和测试集都要生成
 
 
 
